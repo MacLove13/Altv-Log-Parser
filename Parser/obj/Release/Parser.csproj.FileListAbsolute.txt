@@ -1,0 +1,28 @@
+C:\Users\felip\Documents\Visual Studio 2019\GTAW-Log-Parser-master\Parser\bin\Release\ParserMini.exe.config
+C:\Users\felip\Documents\Visual Studio 2019\GTAW-Log-Parser-master\Parser\bin\Release\ParserMini.exe
+C:\Users\felip\Documents\Visual Studio 2019\GTAW-Log-Parser-master\Parser\bin\Release\ParserMini.pdb
+C:\Users\felip\Documents\Visual Studio 2019\GTAW-Log-Parser-master\Parser\bin\Release\es-ES\ParserMini.resources.dll
+C:\Users\felip\Documents\Visual Studio 2019\GTAW-Log-Parser-master\Parser\obj\Release\Parser.csprojAssemblyReference.cache
+C:\Users\felip\Documents\Visual Studio 2019\GTAW-Log-Parser-master\Parser\obj\Release\Parser.Localization.Strings.resources
+C:\Users\felip\Documents\Visual Studio 2019\GTAW-Log-Parser-master\Parser\obj\Release\Parser.Properties.Resources.resources
+C:\Users\felip\Documents\Visual Studio 2019\GTAW-Log-Parser-master\Parser\obj\Release\Parser.UI.Main.resources
+C:\Users\felip\Documents\Visual Studio 2019\GTAW-Log-Parser-master\Parser\obj\Release\Parser.Localization.Strings.es-ES.resources
+C:\Users\felip\Documents\Visual Studio 2019\GTAW-Log-Parser-master\Parser\obj\Release\Parser.csproj.GenerateResource.cache
+C:\Users\felip\Documents\Visual Studio 2019\GTAW-Log-Parser-master\Parser\obj\Release\Parser.csproj.CoreCompileInputs.cache
+C:\Users\felip\Documents\Visual Studio 2019\GTAW-Log-Parser-master\Parser\obj\Release\es-ES\ParserMini.resources.dll
+C:\Users\felip\Documents\Visual Studio 2019\GTAW-Log-Parser-master\Parser\obj\Release\ParserMini.exe
+C:\Users\felip\Documents\Visual Studio 2019\GTAW-Log-Parser-master\Parser\obj\Release\ParserMini.pdb
+C:\Users\felip\Documents\Visual Studio 2019\Altv-Log-Parser\Parser\bin\Release\altV Chat Log.exe.config
+C:\Users\felip\Documents\Visual Studio 2019\Altv-Log-Parser\Parser\bin\Release\altV Chat Log.exe
+C:\Users\felip\Documents\Visual Studio 2019\Altv-Log-Parser\Parser\bin\Release\altV Chat Log.pdb
+C:\Users\felip\Documents\Visual Studio 2019\Altv-Log-Parser\Parser\bin\Release\es-ES\altV Chat Log.resources.dll
+C:\Users\felip\Documents\Visual Studio 2019\Altv-Log-Parser\Parser\obj\Release\Parser.csprojAssemblyReference.cache
+C:\Users\felip\Documents\Visual Studio 2019\Altv-Log-Parser\Parser\obj\Release\Parser.Localization.Strings.resources
+C:\Users\felip\Documents\Visual Studio 2019\Altv-Log-Parser\Parser\obj\Release\Parser.Properties.Resources.resources
+C:\Users\felip\Documents\Visual Studio 2019\Altv-Log-Parser\Parser\obj\Release\Parser.UI.Main.resources
+C:\Users\felip\Documents\Visual Studio 2019\Altv-Log-Parser\Parser\obj\Release\Parser.Localization.Strings.es-ES.resources
+C:\Users\felip\Documents\Visual Studio 2019\Altv-Log-Parser\Parser\obj\Release\Parser.csproj.GenerateResource.cache
+C:\Users\felip\Documents\Visual Studio 2019\Altv-Log-Parser\Parser\obj\Release\Parser.csproj.CoreCompileInputs.cache
+C:\Users\felip\Documents\Visual Studio 2019\Altv-Log-Parser\Parser\obj\Release\es-ES\altV Chat Log.resources.dll
+C:\Users\felip\Documents\Visual Studio 2019\Altv-Log-Parser\Parser\obj\Release\altV Chat Log.exe
+C:\Users\felip\Documents\Visual Studio 2019\Altv-Log-Parser\Parser\obj\Release\altV Chat Log.pdb
