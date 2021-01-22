@@ -8,12 +8,12 @@ Perhaps changes in the Wizard will be made in the future for a better experience
 
 ## Getting Started
 
-# Client
+### Client
 <!> Attention: This program will only be able to retrieve the logs if the server you play performs an adaptation in the logs to support the chat.
 
 No installation is required. Simply download the latest [release](https://github.com/MacLove13/Altv-Log-Parser/releases) and run the executable.
 
-# Server
+### Server
 A small change must be made so that players can use the Chat Log.
 
 In the client-side of the chat, add the following code:
