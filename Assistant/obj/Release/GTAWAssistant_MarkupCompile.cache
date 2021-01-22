@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\felip\Documents\Visual Studio 2019\Altv-Log-Parser\Assistant\obj\Release\
+C:\Users\felip\Documents\GitHub\Altv-Log-Parser\Assistant\obj\Release\
 Assistant
 none
 false
 TRACE
-C:\Users\felip\Documents\Visual Studio 2019\Altv-Log-Parser\Assistant\App.xaml
+C:\Users\felip\Documents\GitHub\Altv-Log-Parser\Assistant\App.xaml
 5-1125065860
 
-16-1701945110
-28-1370208443
+17346998108
+28-891643959
 UI\ProgramSettingsWindow.xaml;UI\BackupSettingsWindow.xaml;UI\ChatLogFilterWindow.xaml;UI\LanguagePickerWindow.xaml;UI\MainWindow.xaml;
 
-False
+True
 
