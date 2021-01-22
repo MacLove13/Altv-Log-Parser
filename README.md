@@ -31,7 +31,7 @@ function logChat(name, action, message) {
 
 And in your role responsible for Adding the message to Chat, call the function with the necessary parameters.
 
-You can adapt the entire structure to your system, as long as the log is sent as follows: `alt.log (`chat_log: $ {message}`);`
+You can adapt the entire structure to your system, as long as the log is sent as follows: ``alt.log (`chat_log: $ {message}`);``
 
 ## Building
 
